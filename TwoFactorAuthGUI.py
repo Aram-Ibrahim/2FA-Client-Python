@@ -2,7 +2,6 @@ import customtkinter as ctk
 import tkinter as tk
 from tkinter import ttk, filedialog
 import cv2
-import pyzbar.pyzbar as pyzbar
 import pyotp
 
 class TwoFactorAuthGUI:
