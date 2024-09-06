@@ -1,3 +1,0 @@
-py .venv venv
-pause
-pip install pyotp qrcode
